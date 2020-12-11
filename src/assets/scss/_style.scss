@@ -32,4 +32,13 @@ body {
             color: #666666;
         }
     }
+
+    figure {
+        display: flex;
+        justify-content: center;
+
+        img {
+            max-width: 100%;
+        }
+    }
 }
